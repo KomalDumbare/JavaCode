@@ -1,0 +1,244 @@
+Here’s a comprehensive list of **Java interview questions**, categorized from **beginner** to **advanced** levels:  
+
+---
+
+## **Beginner-Level Java Interview Questions**
+1. **What is Java? Why is it platform-independent?**  
+2. **Explain the difference between JDK, JRE, and JVM.**  
+3. **What are the main features of Java?**  
+4. **Explain the difference between compiled and interpreted languages.**  
+5. **What is the difference between primitive and non-primitive data types?**  
+6. **What are wrapper classes in Java?**  
+7. **What is type casting? Explain implicit and explicit type casting.**  
+8. **What are variables in Java? Explain types of variables.**  
+9. **What are literals in Java?**  
+10. **Explain Java’s main() method.**  
+
+### **Object-Oriented Programming (OOPs) Concepts**  
+11. **What are the four pillars of OOP?**  
+12. **Explain the difference between class and object.**  
+13. **What is inheritance in Java? How does it work?**  
+14. **Explain method overloading and method overriding.**  
+15. **What is the difference between static and instance methods?**  
+16. **What is polymorphism? How is it achieved in Java?**  
+17. **What is abstraction? How is it implemented in Java?**  
+18. **What are interfaces and abstract classes? What is the difference?**  
+19. **What is encapsulation? How does Java achieve it?**  
+20. **What is the difference between ‘this’ and ‘super’ keywords?**  
+
+---
+
+## **Intermediate-Level Java Interview Questions**  
+### **Core Java Concepts**  
+21. **What is the difference between == and .equals() in Java?**  
+22. **What is the difference between final, finally, and finalize()?**  
+23. **Explain the Java Collections Framework (JCF).**  
+24. **What is the difference between ArrayList and LinkedList?**  
+25. **How does HashMap work in Java?**  
+26. **Explain HashSet vs TreeSet vs LinkedHashSet.**  
+27. **What is the difference between Comparator and Comparable?**  
+28. **What is a HashTable, and how is it different from HashMap?**  
+29. **Explain String immutability in Java.**  
+30. **What is the difference between StringBuffer and StringBuilder?**  
+31. **What are Java annotations?**  
+32. **What are Java Streams? How are they used?**  
+33. **What is lambda expression in Java?**  
+34. **What is functional programming in Java?**  
+35. **What is the significance of the Optional class in Java?**  
+
+### **Exception Handling**  
+36. **What is exception handling?**  
+37. **What is the difference between checked and unchecked exceptions?**  
+38. **What is try-catch-finally?**  
+39. **What is the difference between throw and throws?**  
+40. **How to create a custom exception in Java?**  
+
+### **Multithreading & Concurrency**  
+41. **What is a thread in Java?**  
+42. **How do you create a thread in Java?**  
+43. **What is the difference between Thread and Runnable?**  
+44. **What is the use of the synchronized keyword?**  
+45. **What are volatile and transient keywords in Java?**  
+46. **What is Thread Pooling?**  
+47. **What is the difference between wait(), notify(), and notifyAll()?**  
+48. **What is the Executor framework?**  
+49. **What is Callable and Future in Java?**  
+50. **What is a Deadlock? How can you prevent it?**  
+
+---
+
+## **Advanced-Level Java Interview Questions**  
+### **JVM Internals & Performance**  
+51. **Explain JVM architecture.**  
+52. **What is Garbage Collection (GC) in Java?**  
+53. **What are the different types of Garbage Collectors in Java?**  
+54. **What are memory areas in JVM?**  
+55. **What are strong, weak, soft, and phantom references in Java?**  
+56. **What is the purpose of the finalize() method?**  
+57. **How does Java handle OutOfMemoryError?**  
+58. **How to tune JVM performance?**  
+59. **What is the difference between Stack and Heap memory?**  
+60. **What are class loaders in Java?**  
+
+### **Java 8 and Beyond**  
+61. **What are the major features introduced in Java 8?**  
+62. **Explain default and static methods in interfaces.**  
+63. **What is the difference between map() and flatMap() in Streams?**  
+64. **How does CompletableFuture work in Java?**  
+65. **What is the difference between forEach and forEachOrdered()?**  
+
+### **Design Patterns & Best Practices**  
+66. **What are design patterns?**  
+67. **Explain the Singleton Design Pattern.**  
+68. **What is the Factory Design Pattern?**  
+69. **What is the Observer Design Pattern?**  
+70. **What is the Dependency Injection (DI) pattern?**  
+
+### **Microservices & Web Development**  
+71. **What is Spring Framework?**  
+72. **What is Spring Boot?**  
+73. **Explain Dependency Injection in Spring.**  
+74. **What are RESTful APIs?**  
+75. **What is the difference between Monolithic and Microservices architecture?**  
+
+---
+
+This is a **complete** Java interview preparation list covering **fundamentals to advanced** concepts. Let me know if you need explanations for any of them! 🚀
+
+
+Here is a **comprehensive list of Java interview questions that include Data Structures and Algorithms (DSA)**, categorized from **beginner to advanced levels**:
+
+---
+
+## **Beginner-Level Java & DSA Interview Questions**
+### **Java Basics**
+1. **What are the main features of Java?**  
+2. **What is the difference between JDK, JRE, and JVM?**  
+3. **Explain the difference between primitive and non-primitive data types in Java.**  
+4. **What is the difference between == and .equals()?**  
+5. **What is the significance of the final keyword?**  
+6. **What is the difference between ArrayList and LinkedList?**  
+7. **What is the difference between HashMap and HashSet?**  
+8. **What is the difference between Stack and Queue?**  
+9. **How does Java implement memory management?**  
+10. **What are lambda expressions in Java?**  
+
+### **Basic Data Structures Questions**
+11. **What are the different types of data structures?**  
+12. **Explain the difference between arrays and linked lists.**  
+13. **How do you implement a stack using an array?**  
+14. **How do you implement a queue using a linked list?**  
+15. **What is the time complexity of searching in an unsorted array?**  
+16. **How do you reverse an array in Java?**  
+17. **How do you find the maximum and minimum in an array?**  
+18. **How do you check if a string is a palindrome?**  
+19. **What is the difference between singly and doubly linked lists?**  
+20. **How do you remove duplicates from an array?**  
+
+---
+
+## **Intermediate-Level Java & DSA Interview Questions**
+### **Sorting & Searching Algorithms**
+21. **Explain the different sorting algorithms and their complexities.**  
+22. **How does Bubble Sort work? What is its time complexity?**  
+23. **How does Selection Sort work?**  
+24. **How does Insertion Sort work?**  
+25. **How does Merge Sort work? Explain its time complexity.**  
+26. **How does Quick Sort work?**  
+27. **What is the difference between Merge Sort and Quick Sort?**  
+28. **What is the time complexity of Binary Search?**  
+29. **How does the two-pointer technique work?**  
+30. **How do you find the kth largest element in an unsorted array?**  
+
+### **Stacks and Queues**
+31. **How do you implement a stack using a queue?**  
+32. **How do you implement a queue using a stack?**  
+33. **What is a circular queue?**  
+34. **How do you check for balanced parentheses using a stack?**  
+35. **How do you implement a Min Stack?**  
+
+### **Linked List Questions**
+36. **How do you detect a cycle in a linked list?**  
+37. **How do you find the middle of a linked list?**  
+38. **How do you reverse a linked list?**  
+39. **How do you merge two sorted linked lists?**  
+40. **How do you remove the nth node from the end of a linked list?**  
+
+### **Hashing & Maps**
+41. **What is hashing? How does HashMap work in Java?**  
+42. **What is the difference between HashMap and TreeMap?**  
+43. **How do you count the frequency of characters in a string?**  
+44. **How do you find the first non-repeating character in a string?**  
+45. **How do you find if an array contains duplicate elements within k distance?**  
+
+---
+
+## **Advanced-Level Java & DSA Interview Questions**
+### **Advanced Tree Questions**
+46. **What is a binary search tree (BST)?**  
+47. **How do you perform in-order, pre-order, and post-order tree traversal?**  
+48. **How do you check if a binary tree is balanced?**  
+49. **How do you find the lowest common ancestor (LCA) of two nodes?**  
+50. **How do you check if a tree is a BST?**  
+51. **How do you convert a binary tree into a doubly linked list?**  
+52. **How do you print the left view of a binary tree?**  
+53. **What is a trie? How is it used in autocomplete?**  
+54. **How do you implement a segment tree?**  
+55. **How do you find the diameter of a binary tree?**  
+
+### **Graph Questions**
+56. **What are the different ways to represent a graph?**  
+57. **How do you implement Depth First Search (DFS)?**  
+58. **How do you implement Breadth First Search (BFS)?**  
+59. **How do you detect a cycle in a graph?**  
+60. **What is Dijkstra’s algorithm? How is it implemented?**  
+61. **What is Floyd-Warshall algorithm?**  
+62. **How do you check if a graph is bipartite?**  
+63. **What is Kruskal’s algorithm?**  
+64. **What is Prim’s algorithm?**  
+65. **How do you find the shortest path in an unweighted graph?**  
+
+### **Dynamic Programming (DP)**
+66. **What is dynamic programming?**  
+67. **How do you solve the Fibonacci problem using DP?**  
+68. **What is the Longest Common Subsequence (LCS) problem?**  
+69. **What is the Longest Increasing Subsequence (LIS) problem?**  
+70. **What is the Coin Change problem?**  
+71. **How do you solve the 0/1 Knapsack problem?**  
+72. **What is the Edit Distance problem?**  
+73. **How do you solve the Rod Cutting problem?**  
+74. **What is the Minimum Path Sum problem?**  
+75. **How do you find the number of unique paths in a grid?**  
+
+### **String & Bit Manipulation**
+76. **What are different ways to reverse a string in Java?**  
+77. **How do you find all permutations of a string?**  
+78. **How do you check if two strings are anagrams?**  
+79. **How do you find the longest palindromic substring?**  
+80. **What is the Rabin-Karp algorithm?**  
+81. **How do you implement the KMP algorithm?**  
+82. **How do you swap two numbers without using a third variable?**  
+83. **How do you check if a number is a power of two?**  
+84. **How do you count the number of set bits in an integer?**  
+85. **What is the XOR trick in bit manipulation?**  
+
+---
+
+## **Bonus: System Design & Java-Specific Optimization**
+86. **How do you design a LRU (Least Recently Used) Cache?**  
+87. **What is a Bloom Filter?**  
+88. **How do you implement a thread-safe Singleton class in Java?**  
+89. **How does Java’s Garbage Collector work?**  
+90. **What is the difference between parallel and concurrent programming?**  
+91. **How do you implement a producer-consumer problem using Java?**  
+92. **What is the Fork/Join framework in Java?**  
+93. **How do you optimize Java code for large-scale applications?**  
+94. **What is memoization in Java?**  
+95. **How does the Java Stream API help in solving problems efficiently?**  
+
+---
+
+### **Final Thoughts**  
+This list covers **Java programming** and **DSA interview questions** for **beginner, intermediate, and advanced** levels. Practicing these will help you **excel in coding interviews** for companies like **Google, Amazon, Microsoft, and others.**  
+
+Need solutions or explanations for any of these? Let me know! 🚀
